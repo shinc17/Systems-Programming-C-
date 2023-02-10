@@ -1,15 +1,3 @@
-/*
-CNIT 31500
-David (Chang Yu) Shin
-Instructor: E T Matson
-TA Name: Z Ghorrati
-Lab: 1:30 ~ 3:20 Thursday
-
-Brief Explanation:
-    This lab is generally about linked list. There are 10 functions about it, such as create list, search and delete items in list.
-
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
