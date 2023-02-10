@@ -1,16 +1,3 @@
-/*
-CNIT 31500
-David (Chang Yu) Shin
-Instructor: E T Matson
-TA Name: Z Ghorrati
-Lab: 1:30 ~ 3:20 Thursday
-
-Brief Explanation:
-	This lab calculates volume of pool and hot tub by using user's input information. Then, Total water and cost will be calculated. 
-	After finish calculation, system will ask users whether make anouther calculation or not.
-
-*/
-
 #include <stdio.h>
 #pragma warning(disable:4996)
 #include <stdbool.h>
