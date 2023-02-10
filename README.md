@@ -10,3 +10,9 @@ Pool / Hot tub Calculator
 
 This code calculates volume of pool and hot tub by using user's input information. Then, Total water and cost will be calculated. 
 After finish calculation, system will ask users whether make anouther calculation or not.
+
+Various Functions
+
+This code generates basic GUI and gets input from users to activate various functions. There are various functions such as:
+Factorials / Fibonacci / Towers of Hanoi / Reversing / Conversion to ASCII
+After finish using functions, it also calculate how many times user used functions.
