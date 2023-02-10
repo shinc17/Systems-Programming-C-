@@ -1,18 +1,3 @@
-/*
-CNIT 31500
-David (Chang Yu) Shin
-Instructor: E T Matson
-TA Name: Z Ghorrati
-Lab: 1:30 ~ 3:20 Thursday
-
-Brief Explanation: 
-	This lab gets input from user about how many boxes they want to ship. There are type 1 and 2 boxes, which have different sizes. 
-	The program calculate the total sizes and shipping cost for it which includes dicount fee for remaining spaces.
-
-*/
-
-
-
 #include <stdio.h>
 #pragma warning(disable:4996)
 
