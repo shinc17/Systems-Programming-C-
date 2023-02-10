@@ -1,6 +1,8 @@
 # Systems-Programming-C-
 C Language Programming
 
+This is a collection of code that I wrote while practicing C programming language. Below is a brief description of what codes are present and what functions are performed respectively.
+
 Box Calculator
 
 This code gets input from user about how many boxes they want to ship. There are type 1 and 2 boxes, which have different sizes. 
